@@ -48,7 +48,11 @@ public class GenerateEdgeReport {
             return generateReportService.generateReport();
         }
     }
+<<<<<<< Updated upstream
 
 
 //abcd
+=======
+    //edited to master.
+>>>>>>> Stashed changes
 }
